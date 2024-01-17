@@ -46,7 +46,7 @@ pip3 install adafruit-circuitpython-ads1x15 adafruit-circuitpython-mcp4725
 Install Other Required Libraries:
 
 ```bash
-pip3 install gpiozero
+pip3 install gpiozero 
 pip3 install numpy
 pip3 install cryptography
 pip3 install docopt
